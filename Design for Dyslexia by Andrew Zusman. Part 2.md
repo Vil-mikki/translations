@@ -94,5 +94,42 @@ do, so that we needn’t memorize the information. Ideally, an interface might b
 _Также на Хабре можно найти много переводов статей Нильсена.  
 Ссылка на поисковую выдачу: <https://clck.ru/9afa3>_
 
-Both www.npr.com and http://www.apartmenttherapy.com were cited by dyslexics in my study of sites they believed gave great experiences for dyslexics. In addition to the level of flexibility in finding information, both sites use clearly labelled layouts. The information is readily available and there is little to learn about how to use either site. Because of the clarity in labeling and creating different sections that follow a common formula, it is not difficult to find a specific news story on NPR, nor is it difficult to find an image 
-gallery on Apartment Therapy.
+Both <http://www.npr.com> and <http://www.apartmenttherapy.com> were cited by dyslexics in my study of sites they believed gave great experiences for dyslexics. In addition to the level of flexibility in finding information, both sites use clearly labelled layouts. The information is readily available and there is little to learn about how to use either site. Because of the clarity in labeling and creating different sections that follow a common formula, it is not difficult to find a specific news story on NPR, nor is it difficult to find an image gallery on Apartment Therapy.
+
+Втечение моего исследования сайтов оба ресурса <http://www.npr.com> и <http://www.apartmenttherapy.com> были упомянуты опрошенными дислексиками как очень удобные для них сайты. В дополнение к высокой гибкости в поиске информации и навигации оба хорошо структурированы в плане разметки информации. Контент вполне читабелен и есть небольшое интро о том, как пользоваться сайтом. Из-за простой разметки и разделении контента по секциям, что следует общей формуле, не составляет труда ни найти конкретную новость на NRP, ни перейти в галерею фотографий на Apartment Therapy.
+
+![Apartment Therapy screenshot](http://i1.wp.com/assets.uxbooth.com/uploads/2015/01/Apartment-Therapy.jpg)
+
+Additionally, information does not have to be in the form of text. For dyslexic users, seeing a product demo or having the option to interact with a product can help build trust.
+
+Также, информация не должна быть только в форме текста. При работе с аудиторией, включающией людей с дислексией, возможность просмотра демонстрации продукта, к примеру, в виде изображения или возможность взаимодействия с продуктом поможет вам выстроить более доверительные отношения с ними как с потенциальными клиентами.
+
+##Perceptible Information
+##Уловимость информации
+
+Perceptible information refers to information that can be easily and quickly understood and digested. Since Attention Deficit Disorder (ADD) and Attention Deficit and Hyperactivity Disorder (ADHD) both have a [high comorbidity rate](http://www.dyslexia-add.org/issues.html) with dyslexia, digital products with a high degree of signal compared to noise are the most beneficial. Signal, in this case refers to the important message of the a site, for example a call to action, while noise would be other aspects of a page that draw attention away from the signal. One of the primary features that separated the [highly successful](http://www.cnet.com/news/google-closes-3-2-billion-purchase-of-nest/) [Nest Thermostat](https://nest.com/) from other thermostat competitors was its ability to show users exactly the information they needed without any distractions. In the same vein, messy airline boarding passes can be incredibly confusing even to people who aren’t dyslexic. The application [FlightCard for iPhone](http://www.sylion.com/flightcard/) was created to combat messy, unclear boarding passes and make flight information more perceptible. Improving the ratio of signal to noise in digital products will improve their usability not only for dyslexics and suffers of ADD and ADHD, but for everyone.
+
+**Уловимая информация** это информация, которая может также легко быть найдена, как и быстро усвоена.
+
+ADD/СДВ: Attention Deficit Disorder / Синдром дефицита внимания
+ADHD/СДВГ: Attention deficit hyperactivity disorder / Синдром дефицита внимания и гиперактивности
+
+_[Общая статья в Википедии про СДВГ](https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC_%D0%B4%D0%B5%D1%84%D0%B8%D1%86%D0%B8%D1%82%D0%B0_%D0%B2%D0%BD%D0%B8%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B8_%D0%B3%D0%B8%D0%BF%D0%B5%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B8)  
+Здесь и далее аббревиатура СДВГ будет использована для обоих типов расстройств, как и следует из ее расшифровки в русском языке.  
+[Коморбидность](https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%BE%D1%80%D0%B1%D0%B8%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D1%8C) -- по-простому, когда на фоне одной болезни появляются одна или несколько других._
+
+В то время, как СДВГ имеет высокий процент коморбидности среди больных дислексией, цифровые продукты с высоким уровнем сигнала по сравнению с шумом являются наиболее выгодными.
+По "сигналом" в данном случае подразумевается главный посыл сайта, к примеру, _призыв к действию_, тогда как под "шумом" -- все остальное, что отвлекает от сигнала. Одно из главных преимуществ [термостата Nest](https://nest.com), которое выгодно [отличает этот продукт](http://www.cnet.com/news/google-closes-3-2-billion-purchase-of-nest/) от всех остальных, это возможность показывать пользователям именно ту информацию, которая им нужна безо всяких отвлекающих подробностей. По этой же причине отвратительные посадочные талоны большинства авиакомпаний могут быть запутанными даже для людей без дислексии. Приложение [FlightCard for iPhone](http://www.sylion.com/flightcard/) было создано чтобы сгруппировать разрозненную и неоднородную информация на авиабилетах в более усваиваемую форму. Повышение отношения сигналу по отношению к шуму в цифровых продуктах улучшает воспримчивость их информации для всех групп пользователей, а не только для людей с расстройствами.
+
+![Nest thermostat](http://i2.wp.com/assets.uxbooth.com/uploads/2015/01/Nest.jpg)
+
+
+
+
+
+
+
+
+
+
+
