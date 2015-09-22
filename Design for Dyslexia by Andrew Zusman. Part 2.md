@@ -1,4 +1,4 @@
-Source: <http://www.uxbooth.com/articles/designing-for-dyslexia-part-2/>
+Source: <http://www.uxbooth.com/articles/designing-for-dyslexia-part-2/>  
 Translate: Philipp Baranovskiy / <http://philipp.ninja>
 
 March, 23 / 2015
@@ -123,13 +123,10 @@ _[Общая статья в Википедии про СДВГ](https://ru.wiki
 
 ![Nest thermostat](http://i2.wp.com/assets.uxbooth.com/uploads/2015/01/Nest.jpg)
 
+Many landing pages have nailed the idea of perceptible information with single calls to action, clear, explanatory headlines, and images or films of their products. One way to consider how to make information more perceptible (as well as more simplistic), is to consider what I call the “foreign language test”. If this website were in a foreign language that the user did not understand, would he or she still be able to understand the basic tenants of the product? How clear would the calls to action be if they were written in a different language? Some information would obviously be “lost in translation,” but when considering both the signal-to-noise ratio and the clarity of the calls to action, this simple test can help to create designs that will improve usability.
 
+Множество посадочных страниц используют простой рецепт уловимой информации, основанный на простых призывах к действию, понятных объясняющих заголовках и иллюстрациях продукта. Один из способов сделать информацию на странице еще более простой к восприятию: это то, что я называют "тест иностранного языка". Если бы сайт был на языке который пользователь не понимает, был бы он в состоянии понять, что вообще из себя представляет продукт? Насколько понятны были бы призывы к действиям, если бы они были написаны на другом языке? Некоторая информация, очевидно, может быть утеряна из-за перевода, но когда учитываешь оба параметра: отношение сигнала к шуму и понятность призывов к действиям, то этот простой тест может помочь улучшить юзабилити интерфейса.
 
+In addition, there are many dyslexic-friendly fonts. One such font is [Open Dyslexic](http://opendyslexic.org/).** These fonts are meant to improve readability for dyslexics. One way to create a more universal design and one that will be improve readability for dyslexics is to list a dyslexic font as the first font in a CSS document. Users who have dyslexia and have the font already will see a dyslexic-friendly font, while those without the font will view the website normally.
 
-
-
-
-
-
-
-
+В дополнение могу сказать, что существует множество комфортных для дислексиков шрифтов. Один из них [Open Dyslexic](http://opendyslexic.org/).** Эти шрифты призваны повысить читабельность текста. Один из способов сделать дизайн более универсальным это выставить шрифт для дислексиков первым в CSS документе. Пользователи с дислексией, у которых уже есть подобный шрифт, увидят адаптированный шрифт на странице, остальные же, кто врядли загружал себе подобный шрифт, увидят нормальную версию.
