@@ -1,4 +1,4 @@
-Source: <http://www.uxbooth.com/articles/designing-for-dyslexia-part-2/>  
+Source: <http://www.uxbooth.com/articles/designing-for-dyslexia-part-2/>
 Translate: Philipp Baranovskiy / <http://philipp.ninja>
 
 March, 23 / 2015
@@ -130,3 +130,21 @@ Many landing pages have nailed the idea of perceptible information with single c
 In addition, there are many dyslexic-friendly fonts. One such font is [Open Dyslexic](http://opendyslexic.org/).** These fonts are meant to improve readability for dyslexics. One way to create a more universal design and one that will be improve readability for dyslexics is to list a dyslexic font as the first font in a CSS document. Users who have dyslexia and have the font already will see a dyslexic-friendly font, while those without the font will view the website normally.
 
 В дополнение могу сказать, что существует множество комфортных для дислексиков шрифтов. Один из них [Open Dyslexic](http://opendyslexic.org/).** Эти шрифты призваны повысить читабельность текста. Один из способов сделать дизайн более универсальным это выставить шрифт для дислексиков первым в CSS документе. Пользователи с дислексией, у которых уже есть подобный шрифт, увидят адаптированный шрифт на странице, остальные же, кто врядли загружал себе подобный шрифт, увидят нормальную версию.
+
+##Tolerance for Error
+##Защита от дурака
+
+Errors will occur for some users no matter how intuitive a design is created, so allowing errors to be reversed or minimized is a way of creating a more universal design. This is called “tolerance for error”. Understanding that users are prone to err will help create interfaces that do as much to abate error as possible. Dyslexics greatly benefit from spell check for obvious reasons. Much of my research was based on questionnaires made at Google Forms. User responses did not have spell check enabled automatically by Forms, and spelling mistakes were abundant. In fact, a few subjects were angry at me for not using spellcheck (this was not intentional, and successfully helped me visualize how dyslexia manifests). Dyslexics also pointed to Excel and other firms and field-based applications as a source of frustration, since these applications typically do not check spelling.
+
+Пользователи будут вести себя не всегда так, как вы того задумывали в независимости от того, насколько интуитивен созданный вами дизайн. Поэтому учитывание возможности ошибок взаимодействия, технических ошибок, предоставление пользователю возможности вернуться туда, где он только что был, и в целом, минимизация отрицательных последствий нетипичного поведения — хороший способ сделать ваш продукт более комфортным в использовании. Это называется "Tolerance for error". "Защита от дурака" в народе по-русски.
+Понимание, что люди действительно пользуются вещами по-разному поможет создать интерфейс насколько стойкий к ошибкам, насколько это возможно (и это еще без учета стадии тестирования).
+Подверженных дислексии очень сильно выручают инструменты проверки орфографии по понятным причинам. Большая часть моего исследования была основана на вопросниках, составленных в Google Forms, где проверка правописания была выключена по-умолчанию. Орфографических ошибок было в достатке. В действительности, некоторые были даже на меня обозлены из-за этого, но это было локальным явлением территориально, поэтому это также помогло мне визуализировать картину того, как проявляется дислексия).
+Мне также указывали на Excel и другие приложение основанные на полях ввода, как источник разочарования, потому что они не поддерживают проверку орфографии простым способом.
+
+However, not every error alert is a positive experience. One of the more complex and controversial aspects of error tolerance is the popup warning message. This is a [point of contention](http://ux.stackexchange.com/questions/40172/is-pop-up-always-bad) in the UX community. On the one hand, a warning or confirmation message gives a user the opportunity to correct a possible error, but on the other hand it can be obtrusive and, in fact, the source of poor user experience rather than a way to improve an experience.
+
+Так или иначе, не стоит считать, что каждое уведомление об ошибке — это правильный подход к делу. Один из самых сложных и спорных моментов защиты от дурака это всплывающее окно уведомления, он же попап, он же popup, он же pop up. Это, прямо таки скажем, [точка раздора](http://ux.stackexchange.com/questions/40172/is-pop-up-always-bad) в UX сообществе. С одной стороны, окно уведомления или подтверждения позволяет пользователю скорректировать возможную ошибку, но с другой, оно может быть очень навязчивым и, по факту, также источником неудобного и некомфортного способа использования ресурса или приложения, а не методом улучшения.
+
+There are plenty of examples of poor warning messages, (and since these are written messages they benefit many users, though not specifically dyslexic users), but one great example that can help everyone can be seen in Amazon’s purchase process. Once a purchase is made, a user can still cancel or change their order until it ships. The user thus has quite a while to make changes or cancel an order with no penalty or difficulty. Particularly for the dyslexics who told me they were scared to make purchases online for fear of making an incorrect order, this additional time to make changes can be the difference between a potential sale at an ecommerce site and an abandoned shopping cart.
+
+Есть множество примеров уведомительных сообщений, 
