@@ -167,12 +167,18 @@ Finally, equitable use means simply that something works for everyone. This is, 
 
 Designing for dyslexia is a unique challenge. It requires empathy, understanding, and the will to make design decisions that may not be based around what the majority of us, as non-dyslexics, might find to be ideal. Rather than ask the question, “Which user is best?”, we should ask the question “How can we reach everyone?” I believe that the crux of the issue lies in desire for inclusion and the courage to design for people who are unlike ourselves. I have almost never designed a product that I have ended up actually using, so it would thus be unhelpful for me to design based on my own intuition rather than what I know about others. The more equitable the design, the higher the likelihood that it will be adopted.
 
+Проектирование для людей с дислексией это уникальное испытание. Оно требует эмпатии и понимания, а также заставляет принимать проектные решения, которые могут быть основаны не на том, что большинство из нас, не дислексики, считает правильным.
+Вместо того, чтобы спрашивать "Какой пользователь лучше? Какого выбрать?" нам следует задавать вопрос "Как мы можем удовлетворить их всех?" Я верю, что суть вопроса в стремлении к всеохватности и смелости для проектирования для людей, которые не похожи на нас. Я почти никогда еще не создавал продукт, который бы я действительно использовал на момент завершения работ, поэтому было бы безполезно полагаться на свои собственные ощущения вместо знаний о других людях. Более доступный дизайн — выше вероятность того, что о будет принят.
+
 Designing for dyslexia is a call to action for designers. Universal design gives us a starting point for creating equitable, meaningful designs. For dyslexics, who are often overlooked in the design process, a more universal design can be the difference between usable and unusable, a great experience and a frustrating one.
 
+Проектирование для дислексиков это призыв к действию для дизайнеров. Универсальный дизайн дает нам фундамент для создания доступных и значимых вещей. В случае с дислексией, которая обычно упускается в дизайн процессе, универсальный дизайн может быть той разницей между используемым и неиспользуемым, хорошим впечатлением от работы с продуктом и отрицательным отношением по результату взаимодействия.
 
 ----------
 
-
-*Author’s Note: Because Universal Design was created for designing physical spaces, this approach is being adopted for web only now and is still somewhat in its infancy. The remaining two guidelines deal with designing for physical spaces and for physical manipulation. While I do believe there is a place for these two principles of universal design in design for web and mobile, they are outside the scope of an article that focuses primarily on cognition rather than physical ability or disability.)
+*Author’s Note: Because Universal Design was created for designing physical spaces, this approach is being adopted for web only now and is still somewhat in its infancy. The remaining two guidelines deal with designing for physical spaces and for physical manipulation. While I do believe there is a place for these two principles of universal design in design for web and mobile, they are outside the scope of an article that focuses primarily on cognition rather than physical ability or disability.
 
 **Note: In full disclosure, Open Dyslexic was helpful in aiding me to find subjects to interview and also helped to publicize my questionnaire.
+
+От автора: поскольку универсальный дизайн был создан для проектирования физических пространств, то он дошел до веба только сейчас и еще развивается. Оставшиеся 2 принципа описывают проектирование физических пространств и физических взаимодействий. Хотя я верю, что для этих 2-х принципов есть место в сфере мобильных и веб-приложений, они остались за рамками этой статьи, которая не фокусируется на физических способностях или неспособностях.
+Ресурс Open Dyslexic очень помог мне в нахождении тем для интервью и популяризации моей анкеты.
