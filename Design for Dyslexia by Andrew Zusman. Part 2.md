@@ -42,8 +42,8 @@ There are seven guiding principles that can help designers to make choices that 
 1. Гибкость
 2. Простота и понятность
 3. Воспринимаемость информации
-4. Допустимость пользовательской ошибки
-5. Доступность функциональности для всех
+4. Допустимость пользовательской ошибки / "Защита от дурака"
+5. Доступная функциональность
 
 ##Flexibility
 ##Гибкость
@@ -147,4 +147,31 @@ However, not every error alert is a positive experience. One of the more complex
 
 There are plenty of examples of poor warning messages, (and since these are written messages they benefit many users, though not specifically dyslexic users), but one great example that can help everyone can be seen in Amazon’s purchase process. Once a purchase is made, a user can still cancel or change their order until it ships. The user thus has quite a while to make changes or cancel an order with no penalty or difficulty. Particularly for the dyslexics who told me they were scared to make purchases online for fear of making an incorrect order, this additional time to make changes can be the difference between a potential sale at an ecommerce site and an abandoned shopping cart.
 
-Есть множество примеров уведомительных сообщений, 
+Есть множество примеров уведомительных сообщений, которые ничем не помогают человеку (и видят их не только дислексики). А вот пример иного расклада дел: процесс покупки на Амазоне. После того, как заказ оформлен, пользователь все еще может отменить его или изменить содержание до формирования посылки. При этом выделяется достаточное количество времени на эти действия.
+Если говорить про дислексию, то время и возможность для проверки, отмены и внесения изменений в заказ — это то самое, что снимает ощущение тревожности у пользователя и составляет разницу между покупкой на сайте и брошенной корзиной.
+
+![Gmail undo action](http://i0.wp.com/assets.uxbooth.com/uploads/2015/01/Undo-Sent-Message-Gmail.png)
+
+*Подобная возможность присутствует и в Gmail*
+
+##Equitable Use
+##Доступная функциональность
+
+Finally, equitable use means simply that something works for everyone. This is, in essence, the cornerstone of universal design. Rather than dividing people into categories or personas, “blind”, “dyslexic”, “ideal user”, “male”, “able bodied”, we should instead view them as users, customers, and most of all, as people. We cannot rely on simply making a version that will work for the blind and a different version for everyone else. Instead, the goal from the outset should be to create a design that is as inclusive as possible. It’s a far broader guideline than the others, perhaps because it is so simple and so clear. Equitable use of a product means respect for an audience.
+
+
+
+
+##Designing for all
+
+Designing for dyslexia is a unique challenge. It requires empathy, understanding, and the will to make design decisions that may not be based around what the majority of us, as non-dyslexics, might find to be ideal. Rather than ask the question, “Which user is best?”, we should ask the question “How can we reach everyone?” I believe that the crux of the issue lies in desire for inclusion and the courage to design for people who are unlike ourselves. I have almost never designed a product that I have ended up actually using, so it would thus be unhelpful for me to design based on my own intuition rather than what I know about others. The more equitable the design, the higher the likelihood that it will be adopted.
+
+Designing for dyslexia is a call to action for designers. Universal design gives us a starting point for creating equitable, meaningful designs. For dyslexics, who are often overlooked in the design process, a more universal design can be the difference between usable and unusable, a great experience and a frustrating one.
+
+
+----------
+
+
+*Author’s Note: Because Universal Design was created for designing physical spaces, this approach is being adopted for web only now and is still somewhat in its infancy. The remaining two guidelines deal with designing for physical spaces and for physical manipulation. While I do believe there is a place for these two principles of universal design in design for web and mobile, they are outside the scope of an article that focuses primarily on cognition rather than physical ability or disability.)
+
+**Note: In full disclosure, Open Dyslexic was helpful in aiding me to find subjects to interview and also helped to publicize my questionnaire.
