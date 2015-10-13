@@ -159,10 +159,11 @@ There are plenty of examples of poor warning messages, (and since these are writ
 
 Finally, equitable use means simply that something works for everyone. This is, in essence, the cornerstone of universal design. Rather than dividing people into categories or personas, “blind”, “dyslexic”, “ideal user”, “male”, “able bodied”, we should instead view them as users, customers, and most of all, as people. We cannot rely on simply making a version that will work for the blind and a different version for everyone else. Instead, the goal from the outset should be to create a design that is as inclusive as possible. It’s a far broader guideline than the others, perhaps because it is so simple and so clear. Equitable use of a product means respect for an audience.
 
-
-
+Наконец, доступная функциональность это просто то, что работает для всех. Это, в некотором смысле, краеугольный камень универсального дизайна. Прежде, чем разделять потребителей на группы или персонажей — "слепой", "дислексик", "идеальный пользователь", "мужчина", "трудоспособный" — нам следует вместо этого посмотреть на них как на пользователей, как на клиентов и, прежде всего, как на людей.
+Мы не можем просто сделать отдельную версию для слепых и еще одну для всех остальных. С самого начала целью должно быть создание дизайна, в котором продумано так много мелких детайлей, кейсов и ситуаций, как это возможно. Это более широкое послание чем все остальные, возможно, потому что столь просто и понятное. Доступность использования продукта есть уважение своей аудитории.
 
 ##Designing for all
+##Проектирование для каждого
 
 Designing for dyslexia is a unique challenge. It requires empathy, understanding, and the will to make design decisions that may not be based around what the majority of us, as non-dyslexics, might find to be ideal. Rather than ask the question, “Which user is best?”, we should ask the question “How can we reach everyone?” I believe that the crux of the issue lies in desire for inclusion and the courage to design for people who are unlike ourselves. I have almost never designed a product that I have ended up actually using, so it would thus be unhelpful for me to design based on my own intuition rather than what I know about others. The more equitable the design, the higher the likelihood that it will be adopted.
 
