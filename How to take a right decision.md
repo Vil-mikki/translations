@@ -1,19 +1,20 @@
 #How to make a right decision
 
-I understand that the following text may reach the emotional fabric of many people so please don't take this as an attack on your ideology. It's an attempt to decompose our (people's) views, feeling, inclinations.
+I understand that the following text may reach the emotional fabric of many people so please don't take this as an assault of your ideology. It's an attempt to sort out our (people's) views, feeling, inclinations.
 
-Since childhood I have formed the opinion that men should marry only one. But who is she? :) How to realized you met the right one? I guess many people (if not all) have this question in mind in different moments of life. It's a fundamental and critical issue — this feature of it comes from history and culture evolution.
+Since childhood I have formed the opinion that everyone should marry only one. But who is she? :) How to realized you met The Right One? I guess many people (if not all) have this question in mind during life. It's a fundamental and critical question — it's features derive from our history and culture evolution.
 
-Of course, nowadays it's ok to break up on marrige, but what is at the end? Today we strive to avoid too serious and irreversible choices because it's a responsible for own decisions.
-Go to Mars in one direction? Make a tattoo? Bring your life with someone forever?
+Of course, nowadays it's ok to break up a marrige, but what is left at the end? In todays life we strive to avoid too serious and irreversible choices because we dont want to take credit for our own decisions.
+Go to Mars in one direction? Make a tattoo? Bind your life with someone forever?
 
 But that sort of decisions forms our life, fill it with taste and feelings that should be go along with such unknown and like nothing on earth thing as «life» in my opinion.
 
-So I was getting similar answer on subject question: «you will feel that you met the right person», «when you meet her you will realized that you want spend the next life with her», «they [women] are all almost the same so just find a suitable one but everything else will follow by itself», «There is not difference — life will tell you when you will need it».
+As it should be with such a inexplicablly incomprarable thing as «life», this sort of decisions shape and mold it bestowing everything with flavour and sensuality.
 
-Sorry but I can't do it this way. How could it be? First of all, it's obviously that there is a difference so we have to make a choice. To understand it just look at existing marriages — a lot of it are unhappy. It isn't a people alliance but burden of debt. So one of the goals is to filter out a burden for you people. It cuts 2 typical answers above coming from the end.
+So I was getting similar answers on subject question: «you will feel that you met The Right One», «when you meet The Right One you will realized that you want to spend rest of life with her», «they [women] are all almost the same so just pick a suitable one and everything else will follow by itself», «There is no difference — life will tell you when you will need it».
 
-The remaining 2 ones are formed on the relativity of sensations. If so then most power sensations are a base to make a choice at some period of life. Right?
+Sorry but I can't do it this way. How can it be so? First of all, it's obviously that there is a difference and according to it we have to choose. To better understand it just look at existing marriages — a lot of them are unhappy. It isn't an alliance, but burden of debt. So one of the goals is to filter out the burden. It cuts 2 typical answers above coming from the end.
+The remaining two ones are formed on the relativity of sensations. If so then most power sensations are a base to make a choice at some period of life. Right?
 
 My experience with the various sensations shows: sensations don't have a limit. Because it is a feature of mind, but our mind is very cool and powerful :) so one's power, thrillness and comprehensiveness can be increased without limit. Every time such things could be found which our mind can interpret as more powerful and deeper sensations. Meanwhile getting ones based on the same reasons change over time. So if it's considered as the basis of making of long-term decisions then to rely on it at certain time is wrong way too.
 
