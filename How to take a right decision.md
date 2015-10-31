@@ -1,17 +1,17 @@
 #How to make a right decision
 
-Я понимаю, что следующий текст может затрагивать душевные устои многих людей, поэтому прошу не воспринимать его как нападки на вашу идеологию. Это попытка логически разложить наши людские взгляды, ощущения, устремления.
+I understand that the following text may reach the emotional fabric of many people so please don't take this as an attack on your ideology. It's an attempt to decompose our (people's) views, feeling, inclinations.
 
-Еще с детства у меня сформировалось мнение, что жениться нужно на той единственной. Но кто она? :) Как понять, что вот именно она единственная? Думаю в разные моменты жизни у многих, если не у всех, есть этот вопрос в голове. Ведь историей и культурой этот выбор сформирован как основополагающий и критически важный. Подкрепляется важность этого выбора его безповоротностью.
+Since childhood I have formed the opinion that men should marry only one. But who is she? :) How to realized you met the right one? I guess many people (if not all) have this question in mind in different moments of life. It's a fundamental and critical issue — this feature of it comes from history and culture evolution.
 
-Конечно, сейчас более-менее нормально расторгать браки, но что тогда остается? Мы стремимся убрать слишком серьезные и безповоротные выборы, потому что это ответственность за свои решения.
-Полететь на марс в один конец? Сделать татуировку? Связать с кем-то свою жизнь навсегда?
+Of course, nowadays it's ok to break up on marrige, but what is at the end? Today we strive to avoid too serious and irreversible choices because it's a responsible for own decisions.
+Go to Mars in one direction? Make a tattoo? Bring your life with someone forever?
 
-Но подобные решения формируют нашу жизнь, придавая ей вкус и ощущения, каковы и должны быть у такой неведомой и не на что непохожей вещи как "жизнь" на мой взгляд.
+But that sort of decisions forms our life, fill it with taste and feelings that should be go along with such unknown and like nothing on earth thing as «life» in my opinion.
 
-И так, я слышал подобные ответы на изначальный вопрос: "ты почувствуешь, что встретил того самого человека", "когды ты ее встретишь, ты поймешь, что хочешь провести с ней всю оставшуюся жизнь", "все почти одинаковы, поэтому просто найди подходящую, с которой сможешь провести оставшуюся жизнь, а остальное приложится", "вообще без разницы, жизнь подскажет, когда нужно будет".
+So I was getting similar answer on subject question: «you will feel that you met the right person», «when you meet her you will realized that you want spend the next life with her», «they [women] are all almost the same so just find a suitable one but everything else will follow by itself», «There is not difference — life will tell you when you will need it».
 
-Извините, но я так не могу :) Как это? Для начала, весьма очевидно, что разница есть и что выбор делать нужно. Для понимая этого достаточно посмотреть на существующие браки и понять, что многие что называется "неудачны" — это не людской союз, а бремя. И так, одна из целей, отфильтровать обременительных для тебя людей. Этим отсекаются 2 типовых ответа, идущих выше с конца.
+Sorry but I can't do it this way. How could it be? First of all, it's obviously that there is a difference so we have to make a choice. To understand it just look at existing marriages — a lot of it are unhappy. It isn't a people alliance but burden of debt. So one of the goals is to filter out a burden for you people. It cuts 2 typical answers above coming from the end.
 
 2 оставшихся формируются на относительности ощущений. Если к этому подходить с такой позиции, то самые мощные ощущения в какой-то период жизни человека являются показателем к выбору. Так?
 
