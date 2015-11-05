@@ -1,4 +1,4 @@
-#How to make a right decision
+# How to make a right decision
 
 I understand that the following text may reach the emotional fabric of many people so please don't take this as an assault of your ideology. It's an attempt to sort out our (people's) views, feeling, inclinations.
 
@@ -13,13 +13,16 @@ As it should be with such a inexplicablly incomprarable thing as «life», this 
 
 So I was getting similar answers on subject question: «you will feel that you met The Right One», «when you meet The Right One you will realized that you want to spend rest of life with her», «they [women] are all almost the same so just pick a suitable one and everything else will follow by itself», «There is no difference — life will tell you when you will need it».
 
-Sorry but I can't do it this way. How can it be so? First of all, it's obviously that there is a difference and according to it we have to choose. To better understand it just look at existing marriages — a lot of them are unhappy. It isn't an alliance, but burden of debt. So one of the goals is to filter out the burden. It cuts 2 typical answers above coming from the end.
+Sorry but I can't do it this way. How can it be so? First of all, it's obviously that there is a difference and according to it we have to choose. To better understand it just look at existing marriages — a lot of them are unhappy. It isn't an alliance, but burden of debt. So one of the goals is to filter out the burden. It cuts 2 typical answers above coming from the end.
 The remaining two ones are formed on the relativity of sensations. If so then most power sensations are a base to make a choice at some period of life. Right?
 
-My experience with the various sensations shows: sensations don't have a limit. Because it is a feature of mind, but our mind is very cool and powerful :) so one's power, thrillness and comprehensiveness can be increased without limit. Every time such things could be found which our mind can interpret as more powerful and deeper sensations. Meanwhile getting ones based on the same reasons change over time. So if it's considered as the basis of making of long-term decisions then to rely on it at certain time is wrong way too.
+My experience shows that sensations are a feature of mind and our mind (brain) is very steep and powerful. So, one’s power, sensations, thrillness and comprehensiveness can be increased without any limits. Like, there are always things that our mind can interpret as more powerful and sensatious. Meanwhile, receiving sensations from the same stimulations changes in time, becomes less powerful. So, to rely on it in the process of decision making is wrong (incorrect) in the long term run.
 
-What follows from all of it? Choose a person between 7 billions — it's simple. As it usually is about many simple things, simplicity is not ease.
+What follows from all of it? Choose a person between 7 billions — it's simple. As it usually is about many simple things, simplicity is not ease.
 Based on my mistakes, my experience in dealing with human society, the stable long-term marriages, unhappy and nervous marriages, couples, my spouses and separate persons I could identify the following aspects of being with the person which can give an answer on the question: is it right person?
+
+What follows from all of it? Choosing a person from 7 billions — it is simply. As it usually is with many simple things, simplicity is not ease.
+Based on my mistakes, my experience in dealing with society, stable long-term marriages, unhappy and tense (anxious) marriages, couples, my own  «pluss ones» and singles, I allocated the following aspects of feeling oneself with the person which might give the answer: is it the right one?
 
 1) Секс как путь духовного саморазвития для каждого и удовлетворение собственных подсознательных инстинктов, особенностей мышления
     Не секрет, что страсть и сексуальная удовлетворенность являются важным параметром. Часто страсть проходит со временем. Многие прибегают к разным способам ее возродить в отношениях и в браке. Но "возрождение" — это уже лечение симптома. С моей точки зрения, нужно понимать, что просто сильная страсть и влечение с логичным продолжением — огромной сексуальной удовлетворенностью — явление временное, являющееся продолжением волны флирта и новизны восприятия мироощущения второго.
