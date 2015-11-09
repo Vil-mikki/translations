@@ -48,4 +48,4 @@ This characteristic results from 2 previous points: if you are not to tightly bo
 Ah, children. I don't have them yet. I could go deeper into this topic, but if all 4 parameters are present in the relationship of a couple then there is a great background for children upbringing. And it is the most comfortable and healthy environment for both - parents and children.
 
 All this does not negate the fact that a good indicator is immeasurable love for a person, feeling that your life is more harmonious and richer with her/him in it. But, however, those are just additional aspects that give you opportunity to analyze your decision.
-Also an important point: raises your hand or not to put a ring on her finger. If it does — put it on. Otherwise don't. The presence of mind in important decision making does not mean the denial of intuition and soul.
+Also an important point: raises your hand or not to put a ring on her finger. If it does — put it on. Otherwise don't. The presence of logical thinking in important decision making does not mean the denial of intuition and soul.
