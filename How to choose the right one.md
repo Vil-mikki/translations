@@ -7,19 +7,17 @@ Since childhood I have formed the opinion that everyone should marry only once. 
 Of course, nowadays it is ok to break up a marriage, but what is left at the end? Today people strive to avoid serious and irreversible choices, because of not wanting to take credit for their own decisions.
 Go to Mars in one direction? Make a tattoo? Bind your life with someone forever? — «Yeah, but… maybe a little bit later, huh?»
 
-But that sort of decisions forms our life, fill it with taste and feelings that should be go along with such unknown and like nothing on earth thing as «life» in my opinion.
+And as it should be with such a inexplicablly incomprarable thing as «life», this sort of decisions shape and mold it bestowing everything with flavour and sensuality.
 
-As it should be with such a inexplicably incomparable thing as «life», this sort of decisions shape and mold it bestowing everything with flavour and sensuality.
+So I was getting similar answers on this subject: «you will feel that you met The Right One», «when you meet The Right One you will realized that you want to spend rest of life with her», «they [women] are all almost the same so just pick a suitable one and everything else will follow», «There is no difference — life will tell you when you will need it».
 
-So I was getting similar answers on subject question: «you will feel that you met The Right One», «when you meet The Right One you will realized that you want to spend rest of life with her», «they [women] are all almost the same so just pick a suitable one and everything else will follow by itself», «There is no difference — life will tell you when you will need it».
+Sorry but I can't do it this way. How can it be so? First of all, it is obvious that there is a difference and according to it we have to choose. To better understand it just look at existing marriages — a lot of them are unhappy. It is not an alliance, but a burden of debt. So one of the goals is to filter out the burden. It cuts out 2 typical answers.
+If we look at it from this viewpoint (point of view), then the most powerful sensations become an indicator of makeing a choice. Right?
 
-Sorry but I can't do it this way. How can it be so? First of all, it is obviously that there is a difference and according to it we have to choose. To better understand it just look at existing marriages — a lot of them are unhappy. It isn't an alliance, but burden of debt. So one of the goals is to filter out the burden. It cuts 2 typical answers above coming from the end.
-The remaining two ones are formed on the relativity of sensations. If so then most power sensations are a base to make a choice at some period of life. Right?
-
-My experience shows that sensations are a feature of mind and our mind (brain) is very steep and powerful. So, oneâ€™s power, sensations, thrills and comprehensiveness can be increased without any limits. Like, there are always things that our mind can interpret as more powerful and sensatious. Meanwhile, receiving sensations from the same stimulations changes in time, becomes less powerful. So, to rely on it in the process of decision making is wrong (incorrect) in the long term run.
+My experience shows that sensations are a feature of mind and our mind (brain) is very steep and powerful. So, one's power, sensations, thrills and comprehensiveness can be increased without any limits. Like, there are always things that our mind can interpret as more powerful and sensatious. Meanwhile, receiving sensations from the same stimulations changes in time, becomes less powerful. So, to rely on it in the process of decision making is wrong (incorrect) in the long term run.
 
 What follows from all of it? Choosing a person from 7 billions — it is simply. As it usually is with many simple things, simplicity is not ease.
-Based on my mistakes, my experience in dealing with society, stable long-term marriages, unhappy and tense (anxious) marriages, couples, my own  «pluss ones» and singles, I allocated the following aspects of feeling oneself with the person which might give the answer: is it the right one?
+Based on my mistakes, my experience in dealing with society, stable long-term marriages, unhappy and tense (anxious) marriages, couples, my own  «better halfs» and singles, I allocated the following aspects of feeling oneself with the person. Those aspects might give the answer: is it the right one?
 
 ## 1) Sex as a way of spiritual self-development, satisfaction of subconscious instincts and characteristics of thinking
 It is not a secret that passion and sexual satisfaction is an important parameter. Nevertheless, often time might fade away a passion, so people try to restore one in many different ways. But «resurgence» is just the healing of symthoms.  
