@@ -7,7 +7,7 @@ Since childhood I have formed the opinion that everyone should marry only once. 
 Of course, nowadays it is ok to break up a marriage, but what is left at the end? Today people strive to avoid serious and irreversible choices, because of not wanting to take credit for their own decisions.
 Go to Mars in one direction? Make a tattoo? Bind your life with someone forever? — «Yeah, but… maybe a little bit later, huh?»
 
-And as it should be with such a inexplicablly incomprarable thing as «life», this sort of decisions shape and mold it bestowing everything with flavour and sensuality.
+And as it should be with such a inexplicably incomparable thing as «life», this sort of decisions shape and mold it bestowing everything with flavour and sensuality.
 
 So I was getting similar answers on this subject: «you will feel that you met The Right One», «when you meet The Right One you will realized that you want to spend rest of life with her», «they [women] are all almost the same so just pick a suitable one and everything else will follow», «There is no difference — life will tell you when you will need it».
 
