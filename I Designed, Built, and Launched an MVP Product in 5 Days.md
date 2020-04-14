@@ -1,5 +1,3 @@
-[Original post is here](https://medium.com/better-programming/i-designed-built-and-launched-an-mvp-platform-in-5-days-c06fa629adb9)
-
 # I Designed, Built, and Launched an MVP Product in 5 Days  
 Crucial realizations on how to launch faster
 
@@ -81,3 +79,7 @@ Rather than launching an entirely new platform, now I’ll have a base to cross-
 Whether it’s curated assets, a simple tool, or email templates, there are many free products we can make that cost us very little time or money to get up and running. As entrepreneurs, we must first bring value to the market, and afterward, we can figure out exactly what kind of product our communities are in need of.
 
 I hope you’ll use this guide to consider the best path of development for your future projects and discover the fastest route to market while also saving yourself later regret from not properly vetting your market ahead of time.
+
+[Оригинал на Medium.com](https://medium.com/better-programming/i-designed-built-and-launched-an-mvp-platform-in-5-days-c06fa629adb9)  
+Автор: [Titus Decali](https://medium.com/@titusdecali)  
+Перевела: <name>
