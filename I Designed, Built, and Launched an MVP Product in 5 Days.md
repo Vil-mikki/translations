@@ -1,6 +1,6 @@
 [Original post is here](https://medium.com/better-programming/i-designed-built-and-launched-an-mvp-platform-in-5-days-c06fa629adb9)
 
-#I Designed, Built, and Launched an MVP Product in 5 Days  
+# I Designed, Built, and Launched an MVP Product in 5 Days  
 Crucial realizations on how to launch faster
 
 Over the past year, I’ve launched a few products, each of which required between 3–6 months to go from ideation to launch. At the time, I thought this was moving fast and launching quickly. But after all that time invested, the total profit for all those projects is hovering just under the $500 mark.
