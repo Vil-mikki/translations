@@ -1,85 +1,84 @@
-# I Designed, Built, and Launched an MVP Product in 5 Days  
-Crucial realizations on how to launch faster
+# MVP за 5 дней: спроектировал, построил, запустил
+> Важные инсайты как запуститься быстрее
 
-Over the past year, I’ve launched a few products, each of which required between 3–6 months to go from ideation to launch. At the time, I thought this was moving fast and launching quickly. But after all that time invested, the total profit for all those projects is hovering just under the $500 mark.
+За последний год я запустил несколько продуктов. Каждый потребовал от трех до шести месяцев на запуск. В то время я думал, что это всё двигалось быстро. Однако, не смотря на все те ресурсы, которые были вложены в реализацию этих проектов, общая прибыль по ним сейчас колеблется чуть ниже отметки в 500 долларов.
 
-While the time I invested grew my coding experience and knowledge, I wish I had done things differently and failed quicker.
+Всё потраченное время увеличило мой опыт и знания в программировании, однако, я бы хотел чтобы всё сложилось по-другому, и я бы быстрее потерпел неудачу.
 
-This time around, I took a different approach.
-I Started by First Building a Community
+Но на этот раз я выбрал другой подход.
+### Я начал с построения сообщества
 
-I have an idea of what kind of product I wanted to build, but I have no desire to commit to a single concept until my target audience says they really have a need for it. At this early stage, my goal is simply to build an audience and start a dialogue. For me, my target audience is front-end developers like myself.
+Представляю продукт который я хочу создать, при этом у меня нет желания связывать себя с одной из множества возможных концепций, пока моя целевая аудитория не скажет в чём она действительно нуждается. На этой ранней стадии моя цель — собрать аудиторию и начать диалог. Целевой аудиторией для меня являются frontend разработчики, такие же как и я сам.
 
-Rather than attempting to build some concrete vision from the beginning, I first whittle down the ideas until I have a basic element of value. This would be a minimal product that would allow me to deliver value to my specified target group of users and get them interacting regularly with the site.
+Вместо того чтобы пытаться построить конкретное видение конечного продукта на ранних стадиях, я сначала отбрасываю идеи до тех пор, пока не получу базовый элемент ценности. Это и будет минимальный продукт, который позволит мне доставить ценность моей целевой группе пользователей и сподвигнуть их регулярно взаимодействовать с сайтом.
 
-This is sometimes called a Minimal Lovable Product.
+Иногда это называют _Минимальным привлекательным продуктом._
 
-I know that if I start with a community that is interested in what I’m providing for free, I could have an ongoing conversation to then develop a product specifically around their needs. It is best to create your minimal product around your long-term product goals. However, it doesn’t have to be a smaller version of your final idea. It just needs to deliver value to your eventual target group of customers.
+Знаю, что если я начну с сообщества, заинтересованого в том, что я предоставляю бесплатно, то у меня уже есть шанс на постоянное взаимодейстиве. Это в последствии поможет мне разработать продукт, отвечающий их потребностям. Лучше всего создавать MVP, отталкиваясь от долгосрочных целей. Это не обязательно должна быть уменьшенная версия окончательной идеи. Минимальный продукт просто должен обеспечить ту самую необходимую ценность для целевой группы потребителей.
 
-Here’s an example of how I set a long-term product goal while starting with a basic element of value.
-My long-term goal
+Далее пример того, как я устанавливаю долгосрочную цель продукта, начиная с базового элемента ценности.
+#### Моя долгосрочная цель
 
-I know that many developers have full projects and UI components that they spend weeks on and then never do anything with. I think many of these could be sellable, but there isn’t really a marketplace that focuses on this specific aspect of the market. So, my long-term goal revolves around allowing devs to buy and sell resources they’ve created.
+Знаю, что у многих разработчиков есть законченные проекты и компоненты интерфейса, на реализацию которых они потратили недели. Потом убрали в дальный шкаф. Не знали что с ними делать. Думаю многие из них могут быть проданы, но не существует никакой платформы, сфокусированной на этом конкретном аспекте рынка. Итак, моя долгосрочная цель: позволить разработчикам покупать и продавать созданные ими ресурсы.
 
-I have an initial idea, but it could change or pivot at any time, and I’m not going to risk the time involved in developing a full-featured platform. I still have no idea what my final product in this market segment is going to be, and I don’t have to. My community will help me decide what I build next, and it will be decided based on data and direct feedback from the market.
-My short-term, basic value delivery
+У меня есть первоначальная идея. Знаю, она может измениться или развернуться на 90 градусов в любой момент. Поэтому я не собираюсь рисковать ресурсами, чтобы сразу разработать полнофункциональную платформу. Всё еще не знаю каким будет конечный продукт в этом сегменте рынка, но мне это и не нужно. Именно сообщество поможет решить что буду делать дальше. Это будет основано на реальных данных и прямой обратной связи с рынком.
+#### Моя краткосрочная цель, базовой элемент ценности
 
-What I can do is start with the project’s basic element of value: a place where developers go to find curated resources for their next project. Essentially, this concept is the same as my original idea, minus the heavy features. While no buying or selling will take place on the platform itself, I should at least be able to gauge the interest in this kind of product (i.e. curated resources) and see what kind of resources people show the greatest interest in.
-I Said No to Features That Required More Time to Code
+Начать следует с основной ценности проекта: места, куда разработчики идут за ресурсами для своего следующего проекта. Эта концепция совпадает с первоначальной идеей, за вычетом тяжеловесного функционала. Никакой покупки или продажи не будет происходить на самой платформе. Важное здесь: возможность оценить заинтересованность в этом виде продукта и посмотреть, к каким ресурсам люди проявляют наибольший интерес.
+## Я сказал «нет» функционалу, который требует много времени для реализации:
 
-    No database
-    No login system
-    No user profiles
-    No payment integration
-    No docs (terms and conditions or guides)
-    No features that would make the project take more than a week to develop
+- Нет базам данных
+- Нет системам авторизации
+- Нет профилям пользователей
+- Нет интеграции платежей
+- Нет документации (правилам, условиям, руководствам)
+- Нет функционалу, из-за которого разработка проекта занимает больше недели
 
-I Focused on the Unique Value I Could Bring to the Market
+### Я сосредоточился на уникальной ценности, которую я могу принести на рынок
 
-I’d like to think that I have a knack for curation, especially when it comes to design and development resources. It was with this thought that I decided to create a curated front-end resource platform. While similar repositories exist, I wanted something specific. I wanted a range of frameworks and to focus on quality over quantity. Each resource would be hand-picked and well-considered before posting. I decided I would only post things that I myself could imagine using.
+Хочу думать, что у меня талант к наставничеству, особенно когда речь заходит о ресурсах для проектирования и разработки. С этой мыслью решил создать кураторскую платформу frontend ресурсов. Да, подобные репозитории уже существуют, при этом я хочу сделать что-то более конкретное. Хочу, чтобы это включало в себя целый ряд фреймворков, и при всём этом сосредоточиться на качестве, а не на количестве. Каждый ресурс должен быть тщательно отобран и тщательно продуман перед его публикацией. Я решил предоставлять только вещи, которые я бы сам захотел использовать.
 
-I already had a ton of saved bookmarks and have written pieces on Medium about some resources I’ve curated, so I figured that was a great starting path. I first decided which frameworks I was going to curate resources for, and in the end, I chose only those frameworks with which I had direct experience.
-The Launch Process
-1. Simplify the UX
+У меня уже была целая тонна сохраненных закладок и написанные статьи на Medium о некоторых ресурсах, которые я курировал, поэтому я решил, что это отличное начало. Сначала я решил, для каких фреймворков буду предоставлять образовательные ресурсы. Выбрал только те фреймворки, с которыми у меня был непосредственный опыт.
+### Процесс запуска
+#### 1. Упростить UX
 
-I spent half a day creating a UI wireframe in Sketch. I referenced other similar sites and compiled the best ideas into a two-page site. I have the tendency to add extra detail during the design stage, but I forced myself to cut any and all elements I wasn’t ready to build within the following few days. Also, for the first time as a designer, I didn’t care about making things look good. Black and white was enough for this stage, and any colors or element designs would come later.
-2. Decide on styles
+Полдня потратил на создание каркаса пользовательского интерфейса в Sketch. Обратился к опыту подобных сайтов и собрал лучшие идеи в двухстраничное приложение. Есть привычка добавлять дополнительные детали на стадии проектирования. В этот раз решил вырезать все элементы, которые я бы не смог реализовать в течение следующих нескольких дней. Впервые будучи дизайнером, я не заботился чтобы все выглядело хорошо. Черного и белого было вполне достаточно для этой стадии, остальные же цвета и элементы дизайна появятся позже.
+#### 2. Решить что по стилям
 
-While I could have chosen an off-the-shelf CSS framework like Bootstrap or a UI kit, I recently built my own minimal CSS framework for a different project and decided to use it instead. It’s super small, including only browser resets, basic elements like buttons, forms, a navbar, and a card, so it was perfect to use for my MVP project. I prefer frameworks without a grid, as I tend to use CSS Grid for everything these days. If you’re building a card-based site yourself, learn the basics of Grid (it’s incredible for fluid card layouts). Overall, customizing my CSS framework to fit this project took less than a day.
-My minimal, grid-less CSS framework.
-My minimal, grid-less CSS framework.
-3. Create components
+Я мог бы выбрать любой готовый CSS-фреймворк, такой как Bootstrap или UI kit. Решил всё же использовать собственный минималистичный CSS-фреймворк, который недавно написал для другого проекта. Он маленький, в нем лишь сброшены основные настройки браузера и реализованы основные элементы: кнопки, формы, навигационная панель и карта, именно поэтому он идеально подходит для использования в моем проекте MVP. Предпочитаю фреймворки без грида, так как использую для всего CSS-grid. Если вы сами создаете сайт на основе карточек продукта, изучите основы грида. Это невероятно удобно для верстки подобных макетов!  
+Настройка моего CSS фреймворка под этот проект в целом заняла меньше дня.
+#### 3. Создание компонентов
 
-I use Vue for most web apps I build these days, and this site was no different. I began by outlining the individual components (based on my Sketch wireframe), the routes, and a detailed card element that I would loop through for each resource in my data. You might notice that I found a few ways to further simplify the UI once I started coding compared to my wireframe. Rather than using a modal component to show the download/view buttons for each resource, I found the UI was better if I let people access these through a hover overlay on the card itself. Again, this was a good reason to stick with a wireframe, as I ended up not even using that design (more hours saved). This hover overlay also worked on mobile by tapping the card.
+Я использую Vue для большинства веб-приложений, над которыми я работаю в последнее время. Этот сайт не исключение. Начал с реализации отдельных компонентов на основе ранее сделанного каркаса: роутов и подробного элемента карточки, который будет представлять каждый отдельновзятый образовательный ресурс на моей платформе. Как только я начал воплощать в жизнь подготовленный в Sketch макет, сразу же нашел несколько способов дальнейшего упрощения интерфейса. Вместо модального окна для отображения кнопок загрузки/просмотра отдельного ресурса, — доступ к этим кнопкам через наведение мыши на саму карточку продукта. Наведение хорошо работает на мобильном телефоне по нажатию на карту. Идея придерживаться каркаса была крайне хороша, учитывая, что я так и не использовал часть дизайна. Это позволило мне сэкономить несколько часов.
 
-In the end, this was just a better UX that allowed faster access to resources. If I need extended functionality like modals at a later date, I can easily add them if/when that day comes. Getting all the pages, components, and app logic finished took around two full days.
-This is the entire app. Simple, right?
-This is the entire app. Simple, right?
-4. Decide on data structure and source
+В конце это был улучшенный UX, который позволял быстрее получить доступ к ресурсам. В то же время, если мне будет нужно расширить функционал, например, добавить ещё модальных окон, — это будет просто сделать в будущем. На полное завершение всех страниц, компонентов и логики приложения ушло около двух полных дней.
+#### 4. Выбор структуры данных, источников ресурсов
 
-I separated the .json data files by framework to make them easy to add to later and decided I’d keep them inside the project files rather than use an external database. That way, if I changed my mind as to what database to use, I wouldn’t have to change a bunch of code to fit it (which, as you’ll see in step 5, was a smart decision). Gathering resources really was the most time-consuming part of the job, especially when I manually optimized every image. All in all, this took just over two full days of work.
-5. Deploy to host
+Я разделил .JSON файлы по принадлежности к фреймворкам, чтобы их легко можно было добавить позже. Решил хранить их внутри проекта, чтобы не использовать внешнюю базу данных. Это нужно на случай, если в последствии изменю мнение о том, какую базу данных использовать. Мне не придётся менять много кода, чтобы подстроиться под нее (это, вы увидите в шаге 5, было разумным решением). Сбор ресурсов для проекта действительно стал самой трудоемкой частью работы, особенно учитывая тот факт, что мне пришлось вручную оптимизировать каждое изображение. Так или иначе, в общем это заняло чуть больше двух полных рабочих дней.
+#### 5. Деплоймент
 
-Once the site was ready, I decided to launch it on Netlify, as I’d heard good things about it. While deployment was easy, I was having major issues with image loading. Even after manually optimizing every image by hand (reducing width, running them through multiple image optimizers like Ezgif, etc.) some 300kb files were taking over a minute to get served by Netlify. After a full day of troubleshooting, I decided to completely move the site over to Firebase to see if that would improve load times. Two hours later and the site was moved, the DNS records had propagated, and my site was suddenly blazing fast. If I had committed to using a single database, this might have caused major launch delays. By keeping things simple and building only what I needed, I had saved myself time and energy and yet still got the best result in the end. I could have launched faster, but dealing with these issues lost me at least a day.
-6. Prepare launch and go live
+Как только сайт был готов, я решил запустить его на Netlify. Слышал о нем много хорошего. Сам деплоймент был относительно простым. Однако, у меня возникли проблемы с загрузкой изображений. Даже после ручной оптимизации каждого изображения (уменьшение ширины, применение к ним нескольких оптимизаторов изображений, таких как Ezgif и т.д.) загрузка контента на Netlify около 300 КБ занимала больше минуты. После целого дня попыток это исправить я решил полностью перенести сайт на Firebase, чтобы посмотреть, улучшит ли это время загрузки. Два часа спустя сайт переехал, записи DNS распространились, мой сайт внезапно заработал быстрее. Если бы я решил использовать единую базу данных, то это могло бы привести к серьезным задержкам во время запуска.  
 
-At this point, I was pretty much ready to launch. I added a few more resources and a few convenience features (like a button to clear text in the search field), but nothing major was added. To prepare for the launch on Product Hunt, I created 12 individual frames in Sketch, then uploaded them to ProductHuntGif, which instantly turned them into a perfectly sized gif for my product page. Getting the launch ready took less than half a day. However, I didn’t need to find a hunter, as I already am one on PH. Expect a few days of waiting for a response after you contact people to hunt your product for you (I’d be happy to help too).
-Sketch artboards for my GIF.
-Sketch artboards for my GIF.
-Tip: You might have to reverse the order of images before upload for them to play correctly.
-Tip: You might have to reverse the order of images before upload for them to play correctly.
+Делая вещи проще и создавая только то, что мне действительно было необходимо, я сэкономил время, энергию, добился лучшего результата.  
+Мог бы запустить приложение в работу быстрее, но из-за решения этих проблем я потерял целый день разработки.
+#### 6. Подготовка к запуску, выход в live
 
-For the other images (including the GIF at the top of this article), I used GIF Brewery 3 to quickly snap and resize previews of the product. So far, it’s the best tool I’ve found for quick GIF creation on the fly.
-Conclusion
+Был почти готов к запуску. Снабдил приложение полезыми ресурсами и удобными функциями. Например, кнопку для очистки текста в поле поиска. Ничего серьезного добавлено не было.  
+Чтобы подготовиться к запуску на Product Hunt, я создал 12 отдельных кадров в Sketch, а затем загрузил их в [ProductHuntGif](https://producthuntgif.com/), который мгновенно превратил их в идеальные по размеру gif для моей страницы. Подготовка к запуску заняла меньше половины дня. Мне не нужно было искать хантера, так как я уже являюсь одним из них на РН.  
+Ожидайте несколько дней ответа после того, как вы свяжетесь с людьми, которые будут хантить ваш продукт. Я тоже буду рад помочь.
 
-I’m not sure what will come of this product, but I know that this time around, I’ve taken the best first steps along the product development path. At the very least, I’ll have fostered a community that I can utilize to get feedback on whatever I do next.
+Для других изображений я использовал GIF Brewery 3, чтобы быстро менять размер превью продукта. На данный момент это лучший инструмент, который я нашел для создания GIF на лету.
+### Вывод
 
-Rather than launching an entirely new platform, now I’ll have a base to cross-promote with and gather early-stage users.
+Не уверен, что получится из [этого продукта](https://www.producthunt.com/posts/frontendsource), но точно знаю, что на этот раз я сделал верные первые шаги при разработке продукта. По крайней мере, создал сообщество, которое смогу использовать для получения обратной связи о том, что буду делать в будущем.
 
-Whether it’s curated assets, a simple tool, or email templates, there are many free products we can make that cost us very little time or money to get up and running. As entrepreneurs, we must first bring value to the market, and afterward, we can figure out exactly what kind of product our communities are in need of.
+Вместо того чтобы запускать совершенно новую платформу, теперь у меня будет база для перекрестного продвижения и сбора ранних пользователей.
 
-I hope you’ll use this guide to consider the best path of development for your future projects and discover the fastest route to market while also saving yourself later regret from not properly vetting your market ahead of time.
+Будь то простой инструмент или шаблоны электронной почты, есть много бесплатных продуктов, начальная реалзация которых может стоить нам малых затрат времени или денег. Как предприниматели, мы должны сначала привнести ценность на рынок, а затем уже точно определить, в каком продукте нуждаются наше сообщества.
+
+Надеюсь вы воспользуетесь этим руководством, чтобы выбрать лучший путь развития для ваших будущих проектов и найти быстрый путь к рынку, а также чтобы избавить себя от сожалений о неправильном исследованиии рынка и потребностей пользователей на ранних этапах вашей работы.
 
 [Оригинал на Medium.com](https://medium.com/better-programming/i-designed-built-and-launched-an-mvp-platform-in-5-days-c06fa629adb9)  
 Автор: [Titus Decali](https://medium.com/@titusdecali)  
-Перевела: <name>
+Перевела Виолетта Кочмарева,
+Редактировал Филипп Барановский
