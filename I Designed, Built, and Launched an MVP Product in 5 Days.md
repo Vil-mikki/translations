@@ -80,5 +80,5 @@
 
 [Оригинал на Medium.com](https://medium.com/better-programming/i-designed-built-and-launched-an-mvp-platform-in-5-days-c06fa629adb9)  
 Автор: [Titus Decali](https://medium.com/@titusdecali)  
-Перевела Виолетта Кочмарева,
+Перевела Виолетта Кочмарева,  
 Редактировал Филипп Барановский
